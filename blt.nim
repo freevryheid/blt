@@ -30,7 +30,7 @@ elif defined(macosx):
     libname* = "libBearLibTerminal.dylib"
 else:
   const
-    libname* = "./libBearLibTerminal.so"  # use the ./ if installed local, remove ./ if installed on system path
+    libname* = "libBearLibTerminal.so"
 
 # Keyboard scancodes for events/states
 
