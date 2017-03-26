@@ -1,4 +1,4 @@
-# bearlibterminal (blt)
+# BearLibTerminal (blt)
 Nim wrapper for BearLibTerminal by Cfyz
 
 Description and API documentation here:
